@@ -1,0 +1,9 @@
+
+part { 
+   	name: "background";
+   	type: RECT;
+   	description {
+        state: "default" 0.0;
+        color: 38 38 48 255;
+    }
+}
